@@ -6,7 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub; We will use this to document everything that we did in this project. some other resources are: [joshseven](https://github.com/joshseven/Cloud-portfolio), 
+This is my second project on Amazon Web Services. It aims at integrating dynamo db into the php webapp.
 
 What to note down:
 * Did you work with anyone, note that
