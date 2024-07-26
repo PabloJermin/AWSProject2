@@ -7,15 +7,10 @@
 ## About The Project
 
 This is my second project on Amazon Web Services. It aims at integrating dynamo db into the php webapp.
-
-What to note down:
-* Did you work with anyone, note that
-* What was the problem you were trying to tackle & how did you go about finding your solution
-* any challenges you faced and how did you solve them
+I was able to clone the source project from a git repository and then modified it to suit my wants.
 
 ### Collaborations
-This is a hand-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training and front-end development, we got a chance to work on some realife cloud projects. 
-I was able to work with:
+I give credit to the following people from who's project i cloned and modified to mine. I am highly grateful for their effort and commitment to the project.
  1. William Mukoyani [@their_linkedin](https://www.linkedin.com/in/william-j-mukoyani)
  2. Esther Awudu [@their_linkedin](https://www.linkedin.com/in/esther-awudu-33690320b/)
  3. Thelma Laryea [@their_linkedin](https://www.linkedin.com/in/thelma-laryea-73a49b1b4/)
