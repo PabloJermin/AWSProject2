@@ -59,7 +59,7 @@
             'version'     => 'latest',
             'credentials' => [
                 'key'    => '',
-                'secret' => 
+                'secret' => '',
             ]
         ]);
 
