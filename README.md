@@ -19,7 +19,7 @@ I give credit to the following people from who's project i cloned and modified t
 ### Project Overview
 ```sh
    Todo and technologies
-1. Use AWS s3 (cloud storage service)
+1. 
 2. Upload your files to AWS s3
 3. Launch a sample webapp
 
@@ -67,18 +67,31 @@ We have a bucket and its now hosting ready, all we need to do is add our files a
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To run this web app, follow the steps below.
 
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/PabloJermin/AWSProject2.git
    ```
+
+2. Clone the image 
+   ```
+      docker pull donpee/guestbookphp:latest
+   ```
+3. Open your docker application and run the downloaded image using the following command
+   ```
+   docker run -d -p 80:80 donpee/guestbook:latest
+   ```
+
+4. Open your browser and type 
+   ```
+   localhost:80
+   ```
+   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,9 +100,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@my_twitter](https://twitter.com/your_username) - email@example.com
+ Linkedin: [https://www.linkedin.com/in/jermin-amarteifio/](https://www.linkedin.com/in/jermin-amarteifio/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/PabloJermin/AWSProject2.git](https://github.com/PabloJermin/AWSProject2.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,12 +111,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- References -->
 ## References
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+The  follwing websites and resuorces were use during my project.
 
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
+* [Github Readme Documentation](https://docs.github.com/en/get-started/writing-on-github)
+* [Docker Documentation](https://docs.docker.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
